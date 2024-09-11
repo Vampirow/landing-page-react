@@ -1,0 +1,184 @@
+{
+  "Header": {
+    "title": "Dev Daniel Ciesla Ferreira",
+    "paragraph": "Desenvolvedor Fullstack com paixão por criar interfaces intuitivas e experiências de usuário excepcionais. Experiência em React, TypeScript, Java, APEX e muito mais ."
+  },
+  "About": {
+    "paragraph": "Sou um profissional apaixonado por tecnologia, graduado em Redes de computadores e Pos graduação em seguranca de informacao pela UNESA. Tenho buscado oportunidades como desenvolvedor para aplicar e expandir conhecimento e experiência na área. Possuo certificações em CSS, HTML, JavaScript, TypeScript, React, Node.js, JAVA e Sping pela Alura, o que demonstra comprometimento em manter atualizado com as mais recentes tecnologias e práticas da indústria.",
+    "Why": [
+      "Comprometido",
+      "Resiliência no Trabalho",
+      "Inovação",
+      "Gestão de Tempo"
+    ],
+    "Why2": [
+      "Cooperação",
+      "Capacidade de Adaptação",
+      "Criatividade",
+      "Comunicação Assertiva"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "React",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "JavaScript",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "JAVA",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "HTML/CSS",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "AWS",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Spring",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Oracle APEX",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Git/GitHub",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "ExpressJs",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Full Stack",
+      "text": "Um desenvolvedor Full Stack domina tanto a parte visual (front-end) quanto a lógica por trás (back-end) de uma aplicação, trabalhando em todas as camadas do desenvolvimento."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Back-end",
+      "text": "Parte do desenvolvimento focada na lógica de servidor, banco de dados e integração com APIs."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Front-end",
+      "text": "Desenvolvimento da interface do usuário, garantindo a experiência visual e interativa do sistema."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Java",
+      "text": "Linguagem de programação, robusta e multiplataforma, usada para desenvolver aplicações."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Oracle APEX",
+      "text": "Ferramenta de desenvolvimento rápido de aplicações web, que roda diretamente no banco de dados Oracle."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "AWS",
+      "text": "Plataforma de serviços em nuvem que oferece infraestrutura, armazenamento e computação."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Daniel foi a solução que eu precisava para otimizar meus processos. Com suas ferramentas, consegui aumentar minha produtividade em 30%.\"",
+      "name": "Jonas Felip"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"A interface intuitiva dos sistemas do Daniel, facilitou muito a minha vida. Agora, consigo gerenciar minhas tarefas de forma muito mais eficiente.\"",
+      "name": "Julio Carlos"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"O suporte técnico dado é simplesmente incrível! Sempre que precisei, a equipe foi rápida e eficiente em resolver meus problemas.\"",
+      "name": "Antonio Ar."
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Graças às soluções da empresa do Dan, consegui reduzir meus custos operacionais em 20%. O investimento valeu muito a pena!\"",
+      "name": "Christian A"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Daniel me proporcionou a tranquilidade que eu precisava para cuidar do meu negócio. Agora, posso focar no que realmente importa.\"",
+      "name": "Tarcisio M."
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Nenhuma outra empresa oferece soluções tão completas e personalizadas quanto a empresa do Daniel. Estou muito satisfeito com os resultados.\"",
+      "name": "Joana Ferretti"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "Rio de Janeiro - RJ - Brasil ",
+    "phone": "+55 21 9999 30209",
+    "email": "o.vampirow@gmail.com",
+    "facebook": "https://www.facebook.com/DanCieslaF",
+    "twitter": "#FORADOAR",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Redes de Computadores",
+      "text": "Formacao em Redes e Pós em Seguranca de informação."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Oracle One Alura",
+      "text": "Curso de Programação de Desenvolvimento de Sofware Back-END / OCI."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Cubus Academy",
+      "text": "Desenvolvimento de Sofware Full Stack."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Santander Coders",
+      "text": "Desenvolvimento de Sofware Full Stack."
+    }
+  ]
+}
